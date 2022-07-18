@@ -4,7 +4,7 @@ I am a beginner web developer from Krasnoyarsk. Now I'm studying at Yandex.Prakt
 
 Skills: REACT / JS / NODE / EXPRESS / HTML / CSS / GIT / FIGMA
 
-- 🔭 I’m currently working on diploma project 
+- 🔭 I am currently actively looking for a job
 - 📫 How to reach me: nikogriffs@yandex.ru 
 - ⚡ Fun fact: I'm blond 
 
