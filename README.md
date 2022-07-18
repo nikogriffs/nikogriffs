@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nikolay
 #### Thank you for visiting my page. 
-I am a beginner web developer from Krasnoyarsk. Now I'm studying at Yandex.Praktikum.
+I am a beginner web developer from Krasnoyarsk. Graduated from Yandex.Practicum.
 
 Skills: REACT / JS / NODE / EXPRESS / HTML / CSS / GIT / FIGMA
 
